@@ -10,20 +10,10 @@ Try the app directly in your browser—no emulator or app store download require
 
 ## 📸 App Preview
 
-### Home & Search
-Search across Apple, Google, and Samsung smartphones spanning 2007–2026 to view key hardware specs without digging through hours of review videos.
-
-![Home and Search Screen](screenshots/home&search.png)
-
-### Phone Specifications
-Glance at all the Specifications and Features you need to know.
-
-![Phone Specification Screen](screenshots/specifications.png)
-
-### Side-by-Side Comparison
-Compare specifications across devices to evaluate hardware differences at a glance.
-
-![Phone Comparison Screen](screenshots/comparison.png)
+| Home & Search | Phone Specifications | Side-by-Side Comparison |
+| :---: | :---: | :---: |
+| ![Home and Search](screenshots/home&search.png) | ![Phone Specifications](screenshots/specifications.png) | ![Phone Comparison](screenshots/comparison.png) |
+| Search Apple, Google, and Samsung phones (2007–2026) | View key hardware specs without digging through review videos | Compare device specs side by side at a glance |
 
 ---
 
@@ -31,17 +21,11 @@ Compare specifications across devices to evaluate hardware differences at a glan
 You can install **PhoneSpecs** directly to your home screen or desktop so it opens full-screen like a native app without revisiting the browser link every time.
 
 ### Android (Chrome) — Step-by-Step
-1. Open **[https://majmal2.github.io/PhoneSpecs/](https://majmal2.github.io/PhoneSpecs/)** in **Google Chrome** and tap the **three dots (`⋮`)** in the top-right corner.
 
-   ![Android Install Step 1](screenshots/Step1.png)
-
-2. Select **Add to Home screen** (or **Install app**) from the browser menu.
-
-   ![Android Install Step 2](screenshots/Step2.png)
-
-3. Tap **Install** (or **Add**) to place **PhoneSpecs** onto your home screen and app drawer.
-
-   ![Android Install Step 3](screenshots/Step3.png)
+| 1. Open Chrome Menu (`⋮`) | 2. Tap Add to Home Screen | 3. Tap Install |
+| :---: | :---: | :---: |
+| ![Android Install Step 1](screenshots/Step1.png) | ![Android Install Step 2](screenshots/Step2.png) | ![Android Install Step 3](screenshots/Step3.png) |
+| Open **[PhoneSpecs](https://majmal2.github.io/PhoneSpecs/)** in Chrome and tap `⋮` in the top right | Select **Add to Home screen** (or **Install app**) | Tap **Install** to add the app to your home screen |
 
 ### iPhone / iPad (Safari)
 1. Open **[https://majmal2.github.io/PhoneSpecs/](https://majmal2.github.io/PhoneSpecs/)** in **Safari**.
