@@ -22,10 +22,10 @@ You can install **PhoneSpecs** directly to your home screen or desktop so it ope
 
 ### Android (Chrome) — Step-by-Step
 
-| 1. Open Chrome Menu (`⋮`) | 2. Tap Add to Home Screen | 3. Tap Install |
+| 1. Open Chrome Menu (`⋮`) | 2. Tap Add to Home Screen | 3. App Installed |
 | :---: | :---: | :---: |
 | ![Android Install Step 1](screenshots/Step1.png) | ![Android Install Step 2](screenshots/Step2.png) | ![Android Install Step 3](screenshots/Step%203.png) |
-| Open **[PhoneSpecs](https://majmal2.github.io/PhoneSpecs/)** in Chrome and tap `⋮` in the top right | Select **Add to Home screen** (or **Install app**) | Tap **Install** to add the app to your home screen |
+| Open **[PhoneSpecs](https://majmal2.github.io/PhoneSpecs/)** in Chrome and tap `⋮` in the top right | Select **Add to Home screen** (or **Install app**) | **App is installed** and should appear on your **Home Screen** |
 
 ### iPhone / iPad (Safari)
 1. Open **[https://majmal2.github.io/PhoneSpecs/](https://majmal2.github.io/PhoneSpecs/)** in **Safari**.
